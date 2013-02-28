@@ -10,4 +10,4 @@ Coming soon!
 Coming soon!
 
 ##Credits, Copyright and License
-Copyright (C) 2012 - 2013 Novatap.com. All rights reserved.
+Copyright (&copy;) 2012 - 2013 Novatap.com. All rights reserved.
